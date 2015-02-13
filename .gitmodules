@@ -1,3 +1,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/gabrielelana/dotfiles
+[submodule "awesome-terminal-fonts"]
+	path = awesome-terminal-fonts
+	url = https://github.com/gabrielelana/awesome-terminal-fonts.git
