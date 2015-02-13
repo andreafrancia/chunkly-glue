@@ -13,6 +13,7 @@ mkdir -p ~/.chunkly
 touch ~/.chunkly/"$(date +%Y-%m-%d).log"
 
 set +o noclobber
+source awesome-terminal-fonts/patched/SourceCodePro+Powerline+Awesome+Regular.sh
 source "$dir/dotfiles/zsh/plugins/time/time.plugin.zsh"
 source "$dir/dotfiles/zsh/plugins/chunkly/chunkly.plugin.zsh"
 
